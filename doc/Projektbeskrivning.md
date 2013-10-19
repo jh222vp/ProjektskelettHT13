@@ -1,6 +1,7 @@
 # MixMusic – Ett musikcommunity
 Projektmedlemmar: 
-[tstjostudent](https://github.com/tstjostudent), [xx222yy](https://github.com/tstjostudent), [yy222xx](https://github.com/tstjostudent)
+Jonas Holte [jh222vp](https://github.com/jh222vp)
+
 
 *Lista alla medlemmar ovan. Ni behöver inte ange fullständiga namn utan länk till GitHub-konto räcker.*
 
