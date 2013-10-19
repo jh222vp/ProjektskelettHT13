@@ -26,5 +26,5 @@ Tobias Holst [th222fa](https://github.com/th222fa)
 *Lägg gärna till egna rubriker eller förändra strukturen så att den passar ert projekt.*
 
 ## Tidsplanering
-*https://c9.io/jh222vp_1/projektskelettht13/workspace/New Folder/Gantt-Schema MixMusic Jonas Holte_Tobias Holst.pdf*
+(https://c9.io/jh222vp_1/projektskelettht13/workspace/New Folder/Gantt-Schema MixMusic Jonas Holte_Tobias Holst.pdf)
 
