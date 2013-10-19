@@ -1,5 +1,4 @@
-
-# Projektnamn här
+# MixMusic – Ett musikcommunity
 Projektmedlemmar: 
 [tstjostudent](https://github.com/tstjostudent), [xx222yy](https://github.com/tstjostudent), [yy222xx](https://github.com/tstjostudent)
 
