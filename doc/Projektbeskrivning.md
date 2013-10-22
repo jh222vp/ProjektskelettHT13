@@ -19,12 +19,11 @@ Tobias Holst [th222fa](https://github.com/th222fa)
 ## Begränsningar
 *Funktionaliteten i hemsidan MixMusik kommer bestå av diverse begränsningar. Möjligheten till att ladda upp och ned musik, registrera sig som användare mot en databas samt spara personlig information för sin användare på hemsidan kommer inte vara möjlig. Anledningen till det är att varken kunskapen eller möjligheten till att använda de nödvändiga komponenterna finns för att utföra detta. Inte heller kommer det finnas möjlighet att posta forumsinlägg, statusuppdaterade inlägg eller liknande då avsaknade av en databas som användaren skulle behöva läsa ur, eller skicka till, inte existerar.*
 
-## Förstudier
-*Eventuellt redan existerande prototyper, användarundersökningar etc. Kanske gör ni om en befintlig webbplats? Beskriv då det här.*
-
-## *Förändra*
-*Lägg gärna till egna rubriker eller förändra strukturen så att den passar ert projekt.*
 
 ## Tidsplanering
-https://c9.io/jh222vp_1/projektskelettht13/workspace/New Folder/Gantt-Schema MixMusic Jonas Holte_Tobias Holst.pdf
+Tidsplaneringe hittar ni här: [TIDSPLANERING](https://c9.io/jh222vp_1/projektskelettht13/workspace/misc/Gantt-Schema MixMusic Jonas Holte_Tobias Holst.pdf) 
+
+//Om det inte skulle gå att kopiera hela länken ovan och klistra in i webläsaren, så går det att hitta filen i:
+
+https://c9.io/jh222vp_1/projektskelettht13/workspace/misc/Gantt-Schema MixMusic Jonas Holte_Tobias Holst.pdf
 
