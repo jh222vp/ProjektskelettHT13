@@ -23,7 +23,7 @@ Tobias Holst [th222fa](https://github.com/th222fa)
 ## Tidsplanering
 Tidsplaneringe hittar ni här: [TIDSPLANERING](https://c9.io/jh222vp_1/projektskelettht13/workspace/misc/Gantt-Schema MixMusic Jonas Holte_Tobias Holst.pdf) 
 
-Om det inte skulle gå att kopiera hela länken ovan och klistra in i webläsaren, så går det att hitta filen i:
+Om länken ovan inte skulle gå att använda, så går det att hitta filen i:
 
 *https://c9.io/jh222vp_1/projektskelettht13/workspace/misc/Gantt-Schema MixMusic Jonas Holte_Tobias Holst.pdf*
 
