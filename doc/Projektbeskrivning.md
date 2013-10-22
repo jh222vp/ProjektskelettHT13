@@ -4,8 +4,6 @@ Jonas Holte [jh222vp](https://github.com/jh222vp)
 Tobias Holst [th222fa](https://github.com/th222fa)
 
 
-*Lista alla medlemmar ovan. Ni behöver inte ange fullständiga namn utan länk till GitHub-konto räcker.*
-
 [Exekverbar version av projektet](http://tstjostudent.github.io/Projektet)
 
 *Länka till en körbar version av projektet ovan. Exempelvis kan ni skapa en gh-pages-branch på samma sätt som i Uppgift 1.1, laboration 1.*
