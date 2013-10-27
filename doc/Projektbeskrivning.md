@@ -1,7 +1,7 @@
 # MixMusic – Ett musikcommunity
 Projektmedlemmar: 
-Jonas Holte [jh222vp](https://github.com/jh222vp)
-Tobias Holst [th222fa](https://github.com/th222fa)
+Jonas [jh222vp](https://github.com/jh222vp)
+Tobias [th222fa](https://github.com/th222fa)
 
 
 [Exekverbar version av projektet](http://tstjostudent.github.io/Projektet)
